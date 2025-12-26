@@ -47,12 +47,6 @@ The current version supports the following instruction patterns:
    print(10 / 2)
    ```
 
-## 🧪 Testing
-A verification script is included to validate the core logic against test cases.
-```bash
-python verify_solution.py
-```
-
 ## 🧠 Approach & Logic
 Instead of a "black box" ML model, this solution uses a transparent **Interpreter Pattern**:
 1.  **Input Normalization**: Cleans and standardizes user text.
