@@ -57,7 +57,6 @@ This ensures **100% accuracy** for supported commands and predictable error hand
 
 ## 📂 Project Structure
 - `nl_to_python.py`: Main logic class `NLPToPython`.
-- `verify_solution.py`: Automated test suite.
 - `README.md`: Project documentation.
 
 ---
