@@ -5,6 +5,15 @@
 ## 📌 Override
 This project was developed as part of an **AI/ML Internship Assessment**. The goal was to build a tool that translates English commands into Python code without relying on heavy external APIs (like OpenAI or Hugging Face), focusing instead on **logic building**, **algorithmic clarity**, and **efficient pattern matching**.
 
+## 💻 Test cases: 
+
+<img width="449" height="169" alt="image" src="https://github.com/user-attachments/assets/43e826b1-3bc9-43c3-9bb6-33016cf316b8" />
+<img width="332" height="83" alt="image" src="https://github.com/user-attachments/assets/a03952ad-b8b1-4868-97b3-648ec06c42bd" />
+<img width="350" height="84" alt="image" src="https://github.com/user-attachments/assets/7182a43f-64e7-4ab8-862b-f23650486381" />
+<img width="661" height="288" alt="image" src="https://github.com/user-attachments/assets/165d0033-d1e4-4c90-96b4-db83bf0dc519" />
+
+
+
 ## 🚀 Features
 - **Zero Dependencies**: Runs entirely on standard Python libraries.
 - **Instant Execution**: No API latency; translates commands in microseconds.
