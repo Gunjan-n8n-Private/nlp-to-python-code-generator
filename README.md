@@ -39,8 +39,8 @@ The current version supports the following instruction patterns:
 ### Running the Program
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-folder>
+   git clone repo-link
+   cd your-repo-folder
    ```
 
 2. **Run the converter**:
